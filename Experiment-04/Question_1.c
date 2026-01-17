@@ -20,6 +20,7 @@ void factorial() {
 int main() {
     num();
     factorial();
-    printf("Factorial of %d is %d" , n, x);
+    printf("Factorial of %d is %d", n, x);
     return 0;
 }
+
